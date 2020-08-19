@@ -1,0 +1,108 @@
+body{
+	       margin: 0;
+}
+
+
+
+
+header{
+           display:flex;
+           justify-content: space-between;
+           border-bottom: 1px solid #E6E6E6;
+           height: 91px;
+
+      }
+
+.container{
+           padding-left: 8%; 
+           padding-right: 8%;
+}
+
+
+.logo{
+           width: 75px;
+           margin-top: 30px;
+
+}
+
+.nav{
+           display:flex;
+           padding-right: 5%;
+           
+}
+
+.nav > a {
+           color: #000;
+           text-decoration: none;
+           margin: 20px 5px;
+           padding: 15px 10px;
+           display: block;
+           width: 80px;
+}
+
+.nav > a:hover {
+           font-weight: bold;
+
+}
+
+
+.nav-button{
+            border: none;
+		    background-image: linear-gradient(-60deg, #ff5858 0%, #f09819 100%);
+		    padding: 15px 15px;
+		    margin-top: 20px;
+		    margin-bottom: 25px;
+		    border-radius: 30px;
+		    color: #FFFFFF;
+}
+
+
+.main{
+		   display: flex;
+		   padding-top: 50px;
+		   background-color: 
+}
+
+.main > div {
+		   width: 50%;
+}
+
+
+.main-title{
+		   font-size: 20px;
+		   margin-left: 30px;
+}
+
+.main-title > span {
+		   color: #CC5500;
+		   font-size: 35px;
+}
+
+.main-button{
+		    border: none;
+		    background-image: linear-gradient(-60deg, #ff5858 0%, #f09819 100%);
+		    padding: 15px 35px;
+		    border-radius: 30px;
+		    margin-top: 30px;
+		    margin-left: 30px;
+		    color: #FFFFFF;
+}
+
+.main-bg{
+		    background-image: url('images/pic.jpeg');
+            background-position: bottom;
+            background-size: cover;
+            background-repeat: no-repeat;
+}           
+
+.extra-words{
+            margin-left: 30px;
+}
+
+.extra-button{
+            border: 1px solid #000;
+		    background-color: #fff;
+		    padding: 15px 35px;
+		    border-radius: 30px;
+		    margin-top: 30px;
+}
