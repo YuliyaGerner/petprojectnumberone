@@ -3,7 +3,7 @@ Pet Project (Portfolio)
 
 
 Tech list
-Django, REST API, Figma, Bootstrap, Javascript, HTML5/CSS
+Django, REST API, Figma, Bootstrap, Javascript, HTML5/CSS, PosgreSQL as database
 
 Steps:
 Number 1
