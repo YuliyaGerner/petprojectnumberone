@@ -16,3 +16,6 @@ The link for the design https://www.figma.com/file/hHwWm7bZlnK40hLc7fRSaI/Untitl
 
 Number 3
 Start creating the landing page. 
+
+Number 4
+Start working on HTMl/CSS template
